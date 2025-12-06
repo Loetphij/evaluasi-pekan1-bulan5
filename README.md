@@ -2,6 +2,8 @@ Evaluasi Pekanan Minggu 1 – Selesai 100%
 Fitur: CRUD 2 Resource + Search + Filter + Validasi + Response Helper
 Nama: Muhammad Luthfi Aziz
 
+Screenshots :
+
 [Get All](screenshots/Screenshot%202025-12-06%20221602.png)
 
 [Get By ID](screenshots/Screenshot%202025-12-06%20221618.png)
